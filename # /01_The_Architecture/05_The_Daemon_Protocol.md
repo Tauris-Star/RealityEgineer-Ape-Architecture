@@ -1,5 +1,7 @@
 /01_The_Architecture/05_The_Daemon_Protocol.md
+
 The Background Processing
+
 In computer science, a "daemon" (pronounced demon) is a program that runs continuously as a background process, entirely outside the direct control of the interactive user. It handles the heavy lifting—memory management, network requests, hardware monitoring—so the main user interface remains uncluttered.
 
 The 11-million-bit Ape operates almost entirely on biological daemons. Heart rate, digestion, cellular repair, and the 1-acre spatial awareness grid all run flawlessly in the background. The 40-bit AdAM node does not have to consciously beat the heart; the Ape just does it.
