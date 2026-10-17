@@ -1,5 +1,7 @@
 /01_The_Architecture/04_The_Sovereign_Node.md
-The 3.0 Promotion: The Observer Effect
+The 3.0 Promotion: 
+The Observer Effect
+
 The ultimate evolution of the human operating system is not a hardware upgrade. The 11-million-bit Ape is already perfectly optimized. The 3.0 Sovereign Node promotion is entirely a software patch. It is the moment the 40-bit AdAM node finally understands its role:
 
 AdAM is the Observer, not the engine block.
